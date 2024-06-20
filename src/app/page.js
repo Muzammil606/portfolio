@@ -6,7 +6,7 @@ export default function Home() {
     <main>
       <section className="relative w-screen h-screen flex md:items-center justify-center">
         <div className="mt-40 md:mt-0 text-center">
-          <p className="md:text-xl mb-2 md:mb-4">👋, My name is <span className="font-semibold">Muzammil Ansari</span> & I'm a</p>
+          <p className="md:text-xl mb-2 md:mb-4">👋, My name is <span className="font-semibold">Muzammil Ansari</span> & I am a</p>
           <h1>FULLSTACK<br/><span className="font-outline">DEVELOPER</span></h1>
           <div className="md:flex items-center justify-between px-1">
             <p className="text-xl text-center md:text-start">based in Mumbai, India</p>
