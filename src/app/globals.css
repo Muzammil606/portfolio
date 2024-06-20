@@ -31,6 +31,15 @@ h5 {
 h6 {
     @apply text-2xl
 }
+.btn {
+    @apply border-2 border-dark dark:border-light bg-dark dark:bg-light text-light dark:text-dark uppercase font-semibold px-5 py-2
+}
+.btn.icon {
+    @apply flex items-center gap-2
+}
+.btn.outlined {
+    @apply bg-transparent text-dark dark:text-light
+}
 
 @media (max-width: 640px) {
     .font-outline {
