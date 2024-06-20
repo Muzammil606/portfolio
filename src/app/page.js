@@ -8,7 +8,7 @@ export default function Home() {
         <div className="mt-40 md:mt-0 text-center">
           <p className="md:text-xl mb-2 md:mb-4">👋, My name is <span className="font-semibold">Muzammil Ansari</span> & I am a</p>
           <h1>FULLSTACK<br/><span className="font-outline">DEVELOPER</span></h1>
-          <div className="md:flex items-center justify-between px-1">
+          <div className="flex items-center justify-between px-1">
             <p className="text-xl text-center md:text-start">based in Mumbai, India</p>
             <div className="flex items-center justify-center md:justify-end gap-3 text-xl">
               <a><RiLinkedinLine /></a>
